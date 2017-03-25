@@ -12,4 +12,4 @@ We want you to implement a queue with the following operations:
 2: Dequeue the element at the front of the queue.
 3: Print the element at the front of the queue.
 
-Errors are not handled in the above program. If you want to practice Java(beginners) try it.
+Errors are not handled in the above program such as when queue is empty, overflow, underflow etc. If you want to practice Java(beginners) try it.
